@@ -1,0 +1,56 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.fawaz{
+    padding: 15px 32px;
+    border-radius:20px 20px ;
+    color: white;
+    background-color: red;
+    height: 50px;
+}
+.batman{
+    display: flex;
+    
+    
+    
+}
+
+.set{
+    padding: 100px;
+    
+}
+.img{
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+.cat{
+    display: flex;
+}
+.dog{
+    padding:100px;
+}
+.h2{
+font: size 800px;
+
+
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid none;
+    
+}
+
+
+    
+    
+    
