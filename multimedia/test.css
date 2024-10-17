@@ -33,7 +33,10 @@
     padding:100px;
 }
 .h2{
-font: size 800px;
+font-weight: 700;
+font-family: montserrat;
+font-size: 48px;
+line-height: 60px;
 
 
 }
